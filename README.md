@@ -13,7 +13,7 @@
 
 ## 🔍 Sobre as Linguagens
 
-⚠️ *O GitHub mostra múltiplas linguagens devido aos arquivos de suporte da IDE Hyperskill,  
+⚠️ *O GitHub mostra múltiplas linguagens devido aos arquivos de suporte da IDE IntelliJ IDEA,  
 mas o conteúdo relevante são os exercícios em Java.*
 
 ✅ **Para ver meus códigos Java**, navegue em:  
