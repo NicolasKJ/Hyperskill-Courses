@@ -17,7 +17,7 @@
 mas o conteúdo relevante são os exercícios em Java.*
 
 ✅ **Para ver meus códigos Java**, navegue em:  
-[`Java-for-Beginners/src/`](/Java-for-Beginners/src)
+[`Java-for-Beginners/src/`](/Java-for-Beginners)
 
 ```text
 Java ████████████████████████████████████████ 100%
